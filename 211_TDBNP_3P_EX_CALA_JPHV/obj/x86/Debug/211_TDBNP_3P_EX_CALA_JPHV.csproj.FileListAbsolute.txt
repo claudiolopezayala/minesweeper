@@ -1,0 +1,100 @@
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\App.xbf
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\MainPage.xbf
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.xr.xml
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.exe
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.pdb
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\resources.pri
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\AppxManifest.xml
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\Core\211_TDBNP_3P_EX_CALA_JPHV.exe
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.build.appxrecipe
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\System.Runtime.dll
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.csproj.AssemblyReference.cache
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\App.g.i.cs
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\App.g.cs
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\MainPage.g.cs
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\App.xaml
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\MainPage.xaml
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\App.xbf
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\MainPage.xbf
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.csproj.CopyComplete
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.exe
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.pdb
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\priconfig.xml
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\resources.resfiles
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\pri.resfiles
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\qualifiers.txt
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637425031200000000.json
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\Win.xbf
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\Win.g.i.cs
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\Win.g.cs
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\Win.xaml
+C:\Users\juanp\Desktop\Tareas y trabajos\TDBNP\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\Win.xbf
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\App.xbf
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\MainPage.xbf
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\Win.xbf
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.xr.xml
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.exe
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.pdb
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\resources.pri
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\AppxManifest.xml
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\Core\211_TDBNP_3P_EX_CALA_JPHV.exe
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.build.appxrecipe
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\System.Runtime.dll
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.csproj.AssemblyReference.cache
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\App.g.i.cs
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\App.g.cs
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\MainPage.g.cs
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\Win.g.i.cs
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\Win.g.cs
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\App.xaml
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\MainPage.xaml
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\Win.xaml
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\App.xbf
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\MainPage.xbf
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\Win.xbf
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.csproj.CopyComplete
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.exe
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\211_TDBNP_3P_EX_CALA_JPHV.pdb
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\priconfig.xml
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\resources.resfiles
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\pri.resfiles
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\qualifiers.txt
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Claudio\Downloads\211_TDBNP_3P_EX_CALA_JPHV\211_TDBNP_3P_EX_CALA_JPHV\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637425031200000000.json
